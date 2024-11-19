@@ -1,3 +1,4 @@
+
 export const NavbarMenu = [
     {
         id: 1,
@@ -25,11 +26,7 @@ export const NavbarMenu = [
         title: 'Contacto',
         link: '/contacto'
     },
-    {
-        id: 6,
-        title: 'Entrar',
-        link: '/entrar'
-    },
+    
 ];
 
 
